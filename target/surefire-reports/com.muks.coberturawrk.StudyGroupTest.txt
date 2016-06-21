@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.muks.coberturawrk.StudyGroupTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.27 sec <<< FAILURE!
+testStudyGroupClass on null(com.muks.coberturawrk.StudyGroupTest)(com.muks.coberturawrk.StudyGroupTest)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.NoSuchMethodError: net.sourceforge.cobertura.coveragedata.TouchCollector.registerClass(Ljava/lang/String;)V
+	at com.muks.coberturawrk.Student.__cobertura_init(Student.java)
+	at com.muks.coberturawrk.Student.<clinit>(Student.java)
+	at com.muks.coberturawrk.StudyGroupTest.testStudyGroupClass(StudyGroupTest.java:20)
+
