@@ -1,4 +1,6 @@
-package com.muks.coberturawrk;
+package com.muks.coberturawrk.test1;
+import com.muks.coberturawrk.Student;
+import com.muks.coberturawrk.StudyGroup;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -10,9 +12,7 @@ import java.util.List;
 /**
  * Unit test for simple Student.
  */
-public class StudyGroupTest
-        extends TestCase
-{
+public class StudyGroupTest extends TestCase {
     @org.testng.annotations.Test
     public void testStudyGroupClass() {
         // prepare the data for test
