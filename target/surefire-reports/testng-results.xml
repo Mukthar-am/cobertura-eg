@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="com.muks.coberturawrk.StudyGroupTest" duration-ms="25" started-at="2016-06-21T06:25:01Z" finished-at="2016-06-21T06:25:01Z">
+  <suite name="com.muks.coberturawrk.StudyGroupTest" duration-ms="24" started-at="2016-06-22T16:43:42Z" finished-at="2016-06-22T16:43:42Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="25" started-at="2016-06-21T06:25:01Z" finished-at="2016-06-21T06:25:01Z">
+    <test name="Command line test" duration-ms="24" started-at="2016-06-22T16:43:42Z" finished-at="2016-06-22T16:43:42Z">
       <class name="com.muks.coberturawrk.StudyGroupTest">
-        <test-method status="FAIL" signature="testStudyGroupClass()[pri:0, instance:null(com.muks.coberturawrk.StudyGroupTest)]" name="testStudyGroupClass" duration-ms="13" started-at="2016-06-21T11:55:01Z" finished-at="2016-06-21T11:55:01Z">
+        <test-method status="FAIL" signature="testStudyGroupClass()[pri:0, instance:null(com.muks.coberturawrk.StudyGroupTest)]" name="testStudyGroupClass" duration-ms="10" started-at="2016-06-22T22:13:42Z" finished-at="2016-06-22T22:13:42Z">
           <exception class="java.lang.NoSuchMethodError">
             <message>
               <![CDATA[net.sourceforge.cobertura.coveragedata.TouchCollector.registerClass(Ljava/lang/String;)V]]>
